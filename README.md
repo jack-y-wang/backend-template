@@ -23,4 +23,4 @@ To run the server, run:
 python src/run.py
 ```
 
-The hello world endpoint can be found at http://127.0.0.1:5000/api/v0/
+The hello world endpoint can be found at http://127.0.0.1:5000/api/
